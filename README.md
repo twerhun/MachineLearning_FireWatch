@@ -10,13 +10,14 @@ Topics explored in this project:
 - geolocation data analysis and interpretation
 
 Libraries and tools:
+- sklearn
 - BeautifulSoup
-- request
-- time
 - pandas
 - numpy
-- json
 - matplotlib
+- request
+- time
+- json
 - statistics
 - math
 - AdjustText
