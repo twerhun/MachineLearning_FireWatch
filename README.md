@@ -4,7 +4,7 @@ I also managed to find the optimal locations for fire stations, considering dist
 
 Topics explored in this project:
 - data scraping from html sites
-- gathering geolocations thorugh api tool
+- gathering geolocations through api tool
 - converting response to json format and extracting data
 - machine learning basics - exploring K-means algorithm possibilities
 - geolocation data analysis and interpretation
